@@ -17,8 +17,8 @@ package com.insightfullogic.java8.answers.chapter3;
  *  b. No
  *
  * Question 5:
- *  a. Side Effect Free
- *  b. Mutates count
+ *  a. Side Effect Free 无副作用
+ *  b. Mutates count 变种
  *
  * Question 6:
  *  StringExercises
